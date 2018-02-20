@@ -20,7 +20,7 @@ public class InputTester {
 			double quarters = input.nextDouble();
 		System.out.print("enter dimes: ");
 			double dimes = input.nextDouble();
-		System.out.print("enter nickels");
+		System.out.print("enter nickels: ");
 			double nickels = input.nextDouble();
 		System.out.print("enter pennies: ");
 			double pennies = input.nextDouble();

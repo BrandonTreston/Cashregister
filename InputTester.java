@@ -14,7 +14,7 @@ public class InputTester {
 			System.out.println(total);
 		register.recordpurchase(total);
 	
-		System.out.print("enter dollars: ");      //tell you to input amount of money
+		System.out.print("enter dollars: ");      //tells you to input amount of money
 			double dollars = input.nextDouble();
 		System.out.print("enter quarters: ");
 			double quarters = input.nextDouble();
